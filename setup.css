@@ -1,0 +1,71 @@
+*{
+    font-family: 'Lato', sans-serif;   
+}
+
+body{
+    margin: 0;
+    background-color: #333333;
+    color : white;
+}
+
+.Download{
+    text-decoration: none; 
+    color: lime;
+}
+
+.navbar{
+    background-color: #212121;
+    height: 55px;
+}
+
+.navlist{
+   float: left;
+}
+
+.navlist li{
+    display: inline-block;
+}
+
+.navlist li a{
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.navlist li a:hover{
+    color: lime
+}
+
+.Text-center{
+    text-align: center;  
+
+}
+
+.News{
+    margin: 20px;
+}
+
+.Regeln{
+    margin: 20px;
+
+}
+
+.Teilnehmer{
+    margin: 20px
+}
+
+.Strikes{
+    margin: 20px
+}
+
+.Team{
+     font-size: 15px ;
+}
+.Spalte1{
+    float: left;
+    margin: 0 30px;
+    font-size: 15px;
+}
+.Spalte2{
+    font-size: 15px;
+}
