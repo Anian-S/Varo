@@ -1,5 +1,5 @@
 *{
-    font-family: 'Lato', sans-serif;   
+    font-family: 'Noto Sans JP', sans-serif;   
 }
 
 body{
@@ -63,9 +63,35 @@ body{
 }
 .Spalte1{
     float: left;
-    margin: 0 30px;
+    margin: 0 20px;
     font-size: 15px;
 }
 .Spalte2{
     font-size: 15px;
+}
+.Spalte3{
+    font-size: 15px;
+}
+
+.footbar{
+    background-color: #212121;
+    height: 55px;
+}
+
+.footlist{
+   float: left;
+}
+
+.footlist li{
+    display: inline-block;
+}
+
+.footlist li a{
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.footlist li a:hover{
+    color: lime
 }
